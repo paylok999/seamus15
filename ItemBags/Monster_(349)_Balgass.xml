@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//~~ For detailed explanation of the bags system refer to ### Item Bags System Description ###.txt included in \Data\ItemBags\
+-->
+
+<ItemBag>
+<BagConfig Name="Monster_Balgass" ItemRate="1000" SetItemRate="0" MoneyDrop="1000000" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
+<SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
+<AddCoin Enable="1" CoinType="0" CoinValue="500" />
+<Ruud GainRate="0" MinValue="1" MaxValue="10" />
+
+<DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+	<Drop Rate="10000" Count="1">
+		<Item Cat="13"  Index="351" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="352" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="353" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="354" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="359" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="360" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="361" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="362" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="363" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="364" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="365" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="366" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="371" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="372" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="373" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="374" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="379" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="380" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="381" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="382" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="387" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="388" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="389" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="390" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="391" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="392" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="393" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="394" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="399" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="400" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="401" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+			<Item Cat="13"  Index="402" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Sealed BA -->
+	</Drop>
+</DropAllow>
+</ItemBag>

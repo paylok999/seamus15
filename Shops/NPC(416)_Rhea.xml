@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// For detailed explanation of the shops system refer to ### Shops System Description ###.txt included in \Data\Shops\
+-->
+
+<Shop>
+	<!-- Violent Wind Helm-->
+	<Item Cat="7" Index="39" Level="2" Durability="53" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Violent Wind Armor-->
+	<Item Cat="8" Index="39" Level="2" Durability="53" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Violent Wind Pants-->
+	<Item Cat="9" Index="39" Level="2" Durability="53" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Violent Wind Gloves-->
+	<Item Cat="10" Index="39" Level="2" Durability="53" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Violent Wind Boots-->
+	<Item Cat="11" Index="39" Level="2" Durability="53" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Red Wing Helm-->
+	<Item Cat="7" Index="40" Level="3" Durability="60" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Red Wing Armor-->
+	<Item Cat="8" Index="40" Level="3" Durability="60" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Red Wing Pants-->
+	<Item Cat="9" Index="40" Level="3" Durability="60" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Red Wing Gloves-->
+	<Item Cat="10" Index="40" Level="3" Durability="60" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Red Wing Boots-->
+	<Item Cat="11" Index="40" Level="3" Durability="60" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Small Axe-->
+	<Item Cat="1" Index="0" Level="1" Durability="34" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Short Sword-->
+	<Item Cat="0" Index="1" Level="0" Durability="37" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Hand Axe-->
+	<Item Cat="1" Index="1" Level="1" Durability="36" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Rapier-->
+	<Item Cat="0" Index="2" Level="2" Durability="40" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Elven Axe-->
+	<Item Cat="1" Index="4" Level="1" Durability="48" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Kris-->
+	<Item Cat="0" Index="0" Level="1" Durability="36" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Skull Staff-->
+	<Item Cat="5" Index="0" Level="1" Durability="16" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Mystery Stick-->
+	<Item Cat="5" Index="14" Level="1" Durability="16" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Violent Wind Stick-->
+	<Item Cat="5" Index="15" Level="2" Durability="17" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+	<!-- Red Wing Stick-->
+	<Item Cat="5" Index="16" Level="3" Durability="18" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="1" />
+</Shop>

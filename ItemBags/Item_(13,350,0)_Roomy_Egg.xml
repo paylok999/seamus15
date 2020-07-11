@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2019 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//~~ For detailed explanation of the bags system refer to ### Item Bags System Description ###.txt included in \Data\ItemBags\
+-->
+
+<ItemBag>
+<BagConfig Name="Item_(13,350)_Roomy_Egg" ItemRate="10000" SetItemRate="0" MoneyDrop="0" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
+<SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
+<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+<Ruud GainRate="0" MinValue="1" MaxValue="10" />
+
+<DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+	<Drop Rate="8000" Count="1">
+		<Item Cat="16" Index="0" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="2" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="4" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="6" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="8" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="10" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="12" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="14" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="16" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="18" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="20" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="22" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="24" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="26" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="28" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="30" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="32" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="34" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="36" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="38" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="41" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="43" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="45" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="47" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="49" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="51" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="53" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="55" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="57" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="59" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="61" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="63" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="65" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="67" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="69" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="71" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="73" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="75" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="77" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="79" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="81" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="83" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="85" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="212" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="214" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="216" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="216" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="218" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="223" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="225" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="227" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="229" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="231" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="233" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="235" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="237" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="241" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="243" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="245" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="252" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="254" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="256" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="258" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="260" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="262" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="264" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="266" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="270" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="272" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="274" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="278" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="280" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="282" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="290" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="292" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="294" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="296" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="298" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="300" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="302" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="304" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="306" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="308" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="310" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="312" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="314" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="316" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="318" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="320" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="322" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="324" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="332" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="334" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="336" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="338" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="340" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="342" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="344" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="346" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="348" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+		<Item Cat="16" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600"/>
+	</Drop>
+	<Drop Rate="2000" Count="1">
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="0" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="2" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="4" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="6" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="8" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="10" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="12" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="14" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="16" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="18" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="20" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="22" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="24" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="26" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="28" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="32" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="34" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="36" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="38" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="41" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="43" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="45" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="47" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="49" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="51" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="53" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="55" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="57" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="59" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="61" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="63" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="65" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="67" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="71" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="73" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="75" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="77" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="79" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="81" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="83" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="85" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="212" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="214" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="216" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="218" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="223" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="225" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="227" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="229" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="231" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="233" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="235" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="237" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="241" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="243" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="245" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="252" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="254" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="256" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="258" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="260" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="262" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="264" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="266" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="268" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="270" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="272" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="274" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="276" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="278" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="280" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="282" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="284" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="286" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="288" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="290" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="292" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="294" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="296" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="298" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="300" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="302" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="304" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="306" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="308" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="310" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="312" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="314" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="316" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="318" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="320" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="322" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="324" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="332" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="334" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="336" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="338" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="340" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="342" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="344" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="346" />
+		<Item Cat="13" Index="211" ItemMinLevel="1" ItemMaxLevel="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Duration="1209600" MuunEvolutionItemCat="16" MuunEvolutionItemIndex="348" />
+	</Drop>
+</DropAllow>
+</ItemBag>

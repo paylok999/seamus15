@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2019 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//~~ For detailed explanation of the bags system refer to ### Item Bags System Description ###.txt included in \Data\ItemBags\
+-->
+
+<ItemBag>
+<BagConfig Name="Item_Red_Box" ItemRate="10000" SetItemRate="0" MoneyDrop="100000" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
+<SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
+<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+<Ruud GainRate="0" MinValue="1" MaxValue="10" />
+
+<DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" PlayerMinLevel="1100" PlayerMaxLevel="MAX" MapNumber="-1">
+	<Drop Rate="10000" Count="5">
+		<!--fire 8-->
+		<Item Cat="12" Index="323" ItemMinLevel="0" ItemMaxLevel="5" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--water 8-->
+		<Item Cat="12" Index="324" ItemMinLevel="0" ItemMaxLevel="4" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--ice 8-->
+		<Item Cat="12" Index="325" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--wind 8-->
+		<Item Cat="12" Index="326" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--lightning 8-->
+		<Item Cat="12" Index="327" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--earth 8-->
+		<Item Cat="12" Index="328" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		
+		<!--fire 7-->
+		<Item Cat="12" Index="317" ItemMinLevel="0" ItemMaxLevel="5" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--water 7-->
+		<Item Cat="12" Index="318" ItemMinLevel="0" ItemMaxLevel="4" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--ice 7-->
+		<Item Cat="12" Index="319" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--wind 7-->
+		<Item Cat="12" Index="320" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--lightning 7-->
+		<Item Cat="12" Index="321" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--earth 7-->
+		<Item Cat="12" Index="322" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		
+		<!--fire 6-->
+		<Item Cat="12" Index="311" ItemMinLevel="0" ItemMaxLevel="5" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--water 6-->
+		<Item Cat="12" Index="312" ItemMinLevel="0" ItemMaxLevel="4" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--ice 6-->
+		<Item Cat="12" Index="313" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--wind 6-->
+		<Item Cat="12" Index="314" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--lightning 6-->
+		<Item Cat="12" Index="315" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--earth 6-->
+		<Item Cat="12" Index="316" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		
+		<!--fire 6-->
+		<Item Cat="12" Index="124" ItemMinLevel="0" ItemMaxLevel="5" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--water 6-->
+		<Item Cat="12" Index="125" ItemMinLevel="0" ItemMaxLevel="4" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--ice 6-->
+		<Item Cat="12" Index="126" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--wind 6-->
+		<Item Cat="12" Index="127" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--lightning 6-->
+		<Item Cat="12" Index="128" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+		<!--earth 6-->
+		<Item Cat="12" Index="129" ItemMinLevel="0" ItemMaxLevel="3" Skill="0" Luck="1" Option="0" Exc="-1" SetItem="1" SocketCount="0" ElementalItem="0"/>
+	</Drop>
+</DropAllow>
+</ItemBag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//~~ For detailed explanation of the bags system refer to ### Item Bags System Description ###.txt included in \Data\ItemBags\
+-->
+
+<ItemBag>
+<BagConfig Name="Item_GM_Gift_Box" ItemRate="9000" SetItemRate="0" MoneyDrop="10000" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
+<SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
+<AddCoin Enable="1" CoinType="0" CoinValue="30" />
+<Ruud GainRate="0" MinValue="1" MaxValue="10" />
+
+<DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+	<Drop Rate="5000" Count="10">
+		<!-- jewels -->
+		<Item Cat="12" Index="414" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="415" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="416" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="417" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="418" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="419" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="420" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="421" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="469" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="480" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="12" Index="474" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+
+
+		<Item Cat="0" Index="75" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="76" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="77" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="78" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="79" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="80" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="62" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="63" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="0" Index="64" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+
+		<Item Cat="2" Index="39" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="2" Index="40" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="2" Index="41" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+
+
+		<Item Cat="3" Index="28" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="3" Index="29" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+
+		<Item Cat="4" Index="40" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="4" Index="41" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+
+
+		<Item Cat="5" Index="62" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+		<Item Cat="5" Index="63" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" Exc="-3;3" SetItem="0" SocketCount="0"/>
+
+
+		<Item Cat="7" Index="189" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="190" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="191" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="192" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="194" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="195" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="196" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="197" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="7" Index="199" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+
+		<Item Cat="8" Index="189" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="190" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="191" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="192" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="193" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="194" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="195" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="196" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="197" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="198" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="8" Index="199" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+
+		<Item Cat="9" Index="189" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="190" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="191" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="192" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="193" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="194" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="195" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="196" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="197" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="198" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="9" Index="199" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+
+		<Item Cat="10" Index="189" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="190" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="191" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="192" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="193" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="194" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="196" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="197" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="198" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="10" Index="199" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+
+		<Item Cat="11" Index="189" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="190" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="191" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="192" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="193" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="194" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="195" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="196" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="197" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="198" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+		<Item Cat="11" Index="199" ItemMinLevel="15" ItemMaxLevel="15" Skill="1" Luck="-1" Option="0" SetItem="1" SetItem="0" SocketCount="0"/>
+
+
+		
+	</Drop>
+	
+</DropAllow>
+</ItemBag>
