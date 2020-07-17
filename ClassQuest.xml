@@ -120,7 +120,7 @@
 		<QuestCondition>
 			<Condition Type="1" Index="2" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="166" />
 			<Condition Type="2" Index="3" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="166" />
-			<Condition Type="3" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="5000000" StartContext="146" />
+			<Condition Type="3" Index="-1" MinLevel="0" MaxLevel="0" ReqStrength="0" ReqMoney="3000000" StartContext="146" />
 			<Condition Type="-1" Index="-1" MinLevel="380" MaxLevel="0" ReqStrength="0" ReqMoney="0" StartContext="144" />
 		</QuestCondition>
 	</QuestInfo>

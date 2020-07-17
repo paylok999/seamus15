@@ -93,8 +93,8 @@
 -->
 
 <ExpSystem CalcType="0" NonVipAdjuster="0.0" PartyExpGainRange="9" DebugMode="0">
-	<StaticExp Normal="1500000000.0" Master="1500000000.0" Majestic="1500000000.0" Event="0.0" Quest="1.0" OffLevel="1000.0" />
-	<PartyRegAddExp One="1.0" Two="3.3" Three="6.6" Four="9.9" Five="12.2" />
+	<StaticExp Normal="1500.0" Master="1500.0" Majestic="500.0" Event="0.0" Quest="1.0" OffLevel="1000.0" />
+	<PartyRegAddExp One="1.0" Two="2.3" Three="3.6" Four="4.9" Five="5.2" />
 	<PartySetAddExp Two="3.0" Three="6.7" Four="9.05" Five="12.4" />
 	
 	<DynamicExpRangeList> <!-- First rule that matches player requirements will be applied, therefore order of entries matters -->
@@ -106,7 +106,8 @@
 		<Range MinReset="0" MaxReset="0" MinLevel="551" MaxLevel="700" NormalExp="1.0" MasterExp="1.3" MajesticExp="1.3" OffLevelExp="1.0"/>
 		<Range MinReset="0" MaxReset="0" MinLevel="701" MaxLevel="750" NormalExp="1.0" MasterExp="1.5" MajesticExp="1.5" OffLevelExp="1.0"/>
 		<Range MinReset="0" MaxReset="0" MinLevel="751" MaxLevel="800" NormalExp="1.0" MasterExp="1.7" MajesticExp="1.7" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="801" MaxLevel="MAX" NormalExp="1.0" MasterExp="1.9" MajesticExp="1.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="801" MaxLevel="900" NormalExp="1.0" MasterExp="1.9" MajesticExp="1.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="901" MaxLevel="MAX" NormalExp="1.0" MasterExp="1.9" MajesticExp="0.5" OffLevelExp="1.0"/>
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 		<Range MinReset="1" MaxReset="2" MinLevel="1" MaxLevel="50" NormalExp="1.1" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
 		<Range MinReset="1" MaxReset="2" MinLevel="51" MaxLevel="100" NormalExp="1.3" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>

@@ -199,26 +199,27 @@
   <DropItem MonsterMinLevel="122" MonsterMaxLevel="122" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3921" Name="Jewel of Soul" />
   <DropItem MonsterMinLevel="123" MonsterMaxLevel="123" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4374" Name="Jewel of Soul" />
   <DropItem MonsterMinLevel="124" MonsterMaxLevel="124" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4690" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="125" MonsterMaxLevel="125" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4372" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="126" MonsterMaxLevel="126" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4431" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="127" MonsterMaxLevel="127" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5160" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="128" MonsterMaxLevel="128" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3749" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="129" MonsterMaxLevel="129" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3953" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="130" MonsterMaxLevel="130" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5420" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="131" MonsterMaxLevel="131" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5548" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="132" MonsterMaxLevel="132" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5139" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="133" MonsterMaxLevel="133" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5554" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="134" MonsterMaxLevel="134" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5871" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="135" MonsterMaxLevel="135" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3092" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="137" MonsterMaxLevel="137" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3749" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="140" MonsterMaxLevel="140" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2820" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="141" MonsterMaxLevel="141" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3214" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="142" MonsterMaxLevel="142" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3674" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="125" MonsterMaxLevel="125" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="126" MonsterMaxLevel="126" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="127" MonsterMaxLevel="127" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="128" MonsterMaxLevel="128" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="129" MonsterMaxLevel="129" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="130" MonsterMaxLevel="130" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="131" MonsterMaxLevel="131" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="132" MonsterMaxLevel="132" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="133" MonsterMaxLevel="133" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="134" MonsterMaxLevel="134" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="135" MonsterMaxLevel="135" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="137" MonsterMaxLevel="137" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="140" MonsterMaxLevel="140" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="141" MonsterMaxLevel="141" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="142" MonsterMaxLevel="142" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
   <DropItem MonsterMinLevel="143" MonsterMaxLevel="143" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3821" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="145" MonsterMaxLevel="145" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3529" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2725" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3794" Name="Jewel of Soul" />
-  <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="12252" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="145" MonsterMaxLevel="145" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Soul" />
+ 
   <DropItem MonsterMinLevel="26" MonsterMaxLevel="26" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1011" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="28" MonsterMaxLevel="28" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1063" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="30" MonsterMaxLevel="30" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="891" Name="Jewel of Bless" />
@@ -283,15 +284,15 @@
   <DropItem MonsterMinLevel="97" MonsterMaxLevel="97" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2141" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="98" MonsterMaxLevel="98" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2122" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="99" MonsterMaxLevel="99" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1924" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="100" MonsterMaxLevel="100" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1638" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="100" MonsterMaxLevel="100" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2122" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="101" MonsterMaxLevel="101" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1418" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="102" MonsterMaxLevel="102" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1329" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="104" MonsterMaxLevel="104" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1846" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="105" MonsterMaxLevel="105" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1331" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="102" MonsterMaxLevel="102" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2122" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="104" MonsterMaxLevel="104" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2122" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="105" MonsterMaxLevel="105" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2122" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="106" MonsterMaxLevel="106" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="107" MonsterMaxLevel="107" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1898" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="107" MonsterMaxLevel="107" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="108" MonsterMaxLevel="108" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1709" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="109" MonsterMaxLevel="109" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1901" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="109" MonsterMaxLevel="109" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="110" MonsterMaxLevel="110" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1679" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="111" MonsterMaxLevel="111" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1748" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="112" MonsterMaxLevel="112" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2329" Name="Jewel of Bless" />
@@ -304,28 +305,28 @@
   <DropItem MonsterMinLevel="120" MonsterMaxLevel="120" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2847" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="121" MonsterMaxLevel="121" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2905" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="122" MonsterMaxLevel="122" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3519" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="123" MonsterMaxLevel="123" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4412" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="124" MonsterMaxLevel="124" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4272" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="125" MonsterMaxLevel="125" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4667" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="126" MonsterMaxLevel="126" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4830" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="127" MonsterMaxLevel="127" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4738" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="128" MonsterMaxLevel="128" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3953" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="129" MonsterMaxLevel="129" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3701" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="130" MonsterMaxLevel="130" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5330" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="131" MonsterMaxLevel="131" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5624" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="132" MonsterMaxLevel="132" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5056" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="133" MonsterMaxLevel="133" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5261" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="134" MonsterMaxLevel="134" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5556" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="135" MonsterMaxLevel="135" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3239" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="137" MonsterMaxLevel="137" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3809" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="140" MonsterMaxLevel="140" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2439" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="141" MonsterMaxLevel="141" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3367" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="142" MonsterMaxLevel="142" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3724" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="143" MonsterMaxLevel="143" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3564" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="145" MonsterMaxLevel="145" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3492" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2701" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3928" Name="Jewel of Bless" />
-  <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="12382" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="123" MonsterMaxLevel="123" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="124" MonsterMaxLevel="124" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="125" MonsterMaxLevel="125" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="126" MonsterMaxLevel="126" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="127" MonsterMaxLevel="127" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="128" MonsterMaxLevel="128" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="129" MonsterMaxLevel="129" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="130" MonsterMaxLevel="130" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="131" MonsterMaxLevel="131" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="132" MonsterMaxLevel="132" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="133" MonsterMaxLevel="133" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="134" MonsterMaxLevel="134" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="135" MonsterMaxLevel="135" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="137" MonsterMaxLevel="137" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="140" MonsterMaxLevel="140" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="141" MonsterMaxLevel="141" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="142" MonsterMaxLevel="142" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="143" MonsterMaxLevel="143" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="145" MonsterMaxLevel="145" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Bless" />
   <DropItem MonsterMinLevel="74" MonsterMaxLevel="74" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2272" Name="Jewel of Life" />
   <DropItem MonsterMinLevel="75" MonsterMaxLevel="75" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2094" Name="Jewel of Life" />
   <DropItem MonsterMinLevel="76" MonsterMaxLevel="76" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2261" Name="Jewel of Life" />
@@ -370,29 +371,29 @@
   <DropItem MonsterMinLevel="119" MonsterMaxLevel="119" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2591" Name="Jewel of Life" />
   <DropItem MonsterMinLevel="120" MonsterMaxLevel="120" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2702" Name="Jewel of Life" />
   <DropItem MonsterMinLevel="121" MonsterMaxLevel="121" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2804" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="122" MonsterMaxLevel="122" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3496" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="123" MonsterMaxLevel="123" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4171" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="124" MonsterMaxLevel="124" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4538" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="125" MonsterMaxLevel="125" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4644" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="126" MonsterMaxLevel="126" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="4619" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="127" MonsterMaxLevel="127" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5460" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="128" MonsterMaxLevel="128" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3838" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="129" MonsterMaxLevel="129" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3905" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="130" MonsterMaxLevel="130" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5138" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="131" MonsterMaxLevel="131" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5426" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="132" MonsterMaxLevel="132" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5043" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="133" MonsterMaxLevel="133" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5616" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="134" MonsterMaxLevel="134" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="5752" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="135" MonsterMaxLevel="135" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3353" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="137" MonsterMaxLevel="137" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3788" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="140" MonsterMaxLevel="140" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2591" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="141" MonsterMaxLevel="141" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3215" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="142" MonsterMaxLevel="142" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3535" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="143" MonsterMaxLevel="143" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3901" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="145" MonsterMaxLevel="145" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3620" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2767" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3942" Name="Jewel of Life" />
-  <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="12527" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="122" MonsterMaxLevel="122" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="123" MonsterMaxLevel="123" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="124" MonsterMaxLevel="124" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="125" MonsterMaxLevel="125" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="126" MonsterMaxLevel="126" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="127" MonsterMaxLevel="127" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="128" MonsterMaxLevel="128" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="129" MonsterMaxLevel="129" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="130" MonsterMaxLevel="130" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="131" MonsterMaxLevel="131" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="132" MonsterMaxLevel="132" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="133" MonsterMaxLevel="133" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="134" MonsterMaxLevel="134" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="135" MonsterMaxLevel="135" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="137" MonsterMaxLevel="137" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="140" MonsterMaxLevel="140" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="141" MonsterMaxLevel="141" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="142" MonsterMaxLevel="142" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="143" MonsterMaxLevel="143" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="145" MonsterMaxLevel="145" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="1708" Name="Jewel of Life" />
   <DropItem MonsterMinLevel="79" MonsterMaxLevel="79" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2167" Name="Jewel of Creation" />
   <DropItem MonsterMinLevel="80" MonsterMaxLevel="80" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2727" Name="Jewel of Creation" />
   <DropItem MonsterMinLevel="81" MonsterMaxLevel="81" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2634" Name="Jewel of Creation" />
@@ -455,4 +456,9 @@
   <DropItem MonsterMinLevel="147" MonsterMaxLevel="147" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="2781" Name="Jewel of Creation" />
   <DropItem MonsterMinLevel="148" MonsterMaxLevel="148" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="3859" Name="Jewel of Creation" />
   <DropItem MonsterMinLevel="149" MonsterMaxLevel="149" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="0" Duration="0" Rate="12312" Name="Jewel of Creation" />
+  <!-- SOD -->
+  <DropItem MonsterMinLevel="275" MonsterMaxLevel="275" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="13" MinLevel="0" MaxLevel="0" Durability="1" Duration="0" Rate="4690" Name="Jewel of Bless" />
+  <DropItem MonsterMinLevel="275" MonsterMaxLevel="275" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="14" MinLevel="0" MaxLevel="0" Durability="1" Duration="0" Rate="4690" Name="Jewel of Soul" />
+  <DropItem MonsterMinLevel="275" MonsterMaxLevel="275" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="16" MinLevel="0" MaxLevel="0" Durability="1" Duration="0" Rate="4690" Name="Jewel of Life" />
+  <DropItem MonsterMinLevel="275" MonsterMaxLevel="275" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="22" MinLevel="0" MaxLevel="0" Durability="1" Duration="0" Rate="4690" Name="Jewel of Creation" />
 </AllMonsterItemDrop>

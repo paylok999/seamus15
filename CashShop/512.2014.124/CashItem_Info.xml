@@ -784,7 +784,7 @@
 	<Item GUID="940" ID="1199" Cat="14" Index="508" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Jewel of Socket" />
 	<Item GUID="941" ID="1201" Cat="14" Index="508" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Jewel of Socket" />
 	<Item GUID="942" ID="1203" Cat="14" Index="503" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Jewel of Excess" />
-	<Item GUID="943" ID="1205" Cat="14" Index="345" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Mysterious Stone" />
+	<Item GUID="943" ID="1205" Cat="14" Index="345" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="0" Description="Mysterious Stone" />
 	<Item GUID="944" ID="1207" Cat="14" Index="447" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Ruud Box (2000)" />
 	<Item GUID="945" ID="1209" Cat="14" Index="448" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Ruud Box (3000)" />
 	<Item GUID="946" ID="1210" Cat="13" Index="48" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Kalima Ticket" />
@@ -970,7 +970,7 @@
 	<Item GUID="1024" ID="1468" Cat="13" Index="58" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Control" />
 	<Item GUID="1025" ID="1470" Cat="13" Index="153" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Blue Oblivion" />
 	<Item GUID="1026" ID="1472" Cat="13" Index="154" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Red Oblivion" />
-	<Item GUID="1027" ID="1474" Cat="14" Index="345" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1" Description="Mysterious Stone" />
+	<Item GUID="1027" ID="1474" Cat="14" Index="345" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="0" Description="Mysterious Stone" />
 	<Item GUID="1028" ID="1476" Cat="13" Index="48" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Kalima Ticket" />
 	<Item GUID="1029" ID="1478" Cat="13" Index="46" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Devil Square Ticket" />
 	<Item GUID="1030" ID="1480" Cat="13" Index="47" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Blood Castle Ticket" />

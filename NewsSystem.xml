@@ -30,13 +30,12 @@
 
 	<News ID="0">
 		<Line Number="0" Text="Welcome to" />
-		<Line Number="1" Text="Our Newly Opened" />
-		<Line Number="2" Text="~! Server !~" />
+		<Line Number="1" Text="SeaMU.net" />
 	</News>
 	
 	<News ID="1">
-		<Line Number="0" Text="Remember to" />
-		<Line Number="1" Text="Visit Our" />
-		<Line Number="2" Text="Fantastic Website" />
+		<Line Number="0" Text="Visit Our" />
+		<Line Number="1" Text="Facebook Page" />
+		<Line Number="2" Text="fb.com/seamudotnet" />
 	</News>
 </NewsSystem>
