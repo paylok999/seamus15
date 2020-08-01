@@ -73,25 +73,29 @@
 
 <MiracleBoxShop Enable="1">
 	<RewardSettings>
-		<Section ID="0" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="1" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="2" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="3" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="4" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="5" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
-		<Section ID="6" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->
+		<Section ID="0" SkillRate="5000" LuckRate="250000" OptionRate="1000000" ExcRate="1000000" /> <!-- n/1000000 -->
+		<Section ID="1" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="2" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="3" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="4" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="5" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="500000" /> <!-- n/1000000 -->
+		<Section ID="6" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="500000" /> <!-- n/1000000 -->
 		<Section ID="7" SkillRate="5000" LuckRate="400000" OptionRate="0" ExcRate="1000000" /> <!-- miracle coin -->
+		<Section ID="8" SkillRate="5000" LuckRate="3500" OptionRate="3000" ExcRate="100" /> <!-- n/1000000 -->		
 	</RewardSettings>
 	<ItemRewardList>
 		<Section ID="0" Active="1" ItemCat="14" ItemIndex="13" Cost="1" Name="Jewel of Bless Box">	
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
-			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
-			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
+			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -104,24 +108,48 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- Ring of Wind -->
+			<Item Cat="14" Index="282" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- mastery minor -->
+			<Item Cat="14" Index="283" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- mastery standard -->
+			<Item Cat="14" Index="284" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- mastery greater -->
+			<Item Cat="13" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Necklace of Fire -->
+			<Item Cat="13" Index="12" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Necklace of Lightning -->
+			<Item Cat="13" Index="25" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Necklace of Ice -->
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="8" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Ring of Ice -->
+			<Item Cat="13" Index="9" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Ring of Poison -->
+			<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Ring of Fire -->
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Ring of Wind -->
 		</Section>
 		<Section ID="1" Active="1" ItemCat="14" ItemIndex="14" Cost="2" Name="Jewel of Soul Box">	
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
 			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
 			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -134,24 +162,34 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Wind -->
 		</Section>
 		<Section ID="2" Active="1" ItemCat="12" ItemIndex="15" Cost="5" Name="Jewel of Chaos Box">
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
 			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
 			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -164,24 +202,34 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Wind -->
 		</Section>
 		<Section ID="3" Active="1" ItemCat="14" ItemIndex="16" Cost="1" Name="Jewel of Life Box">
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
 			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
 			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -194,24 +242,34 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Wind -->
 		</Section>				
 		<Section ID="4" Active="1" ItemCat="14" ItemIndex="22" Cost="1" Name="Jewel of Creation Box">
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
 			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
 			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -224,24 +282,34 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Wind -->
 		</Section>
 		<Section ID="5" Active="1" ItemCat="14" ItemIndex="31" Cost="1" Name="Jewel of Guardian Box">
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
 			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
 			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -254,24 +322,34 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Wind -->
 		</Section>
 		<Section ID="6" Active="1" ItemCat="14" ItemIndex="42" Cost="1" Name="Jewel of Harmony Box">
 			<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Sculpture -->
 			<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="9000" /> <!-- Guardian Enhanced Stone -->
 			<Item Cat="14" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Elite Guardian Enhanced -->
-			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- Guardian Elite Opt Change Pcs -->
+			<Item Cat="14" Index="469" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Guardian Elite Opt Change Pcs -->
 			<Item Cat="14" Index="470" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Guardian Elite Opt Change Seat -->
 			<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
 			<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 700 Article Earning -->
 			<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 300 Article Earning -->
+			<Item Cat="13" Index="268" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="700" /> <!-- Dark Transformation Ring -->		
+			<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Talisman of Luck -->			
+			<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Talisman of Chaos of Assembly -->			
 			<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" Durability="1"/> <!-- Golden Sentence -->
 			<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- rud 2k -->
 			<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- 2ud 3k -->
@@ -284,14 +362,21 @@
 			<Item Cat="14" Index="31" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Guardian Jewel -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
-			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
-			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50000" /> <!-- medicine -->
+			<Item Cat="14" Index="432" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="433" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="434" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="435" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="436" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="437" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="438" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="439" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- medicine -->
+			<Item Cat="14" Index="85" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Wine -->
+			<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Rice Cake -->
+			<Item Cat="14" Index="87" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25000" /> <!-- Cherry Blossom Petal -->			
+			<Item Cat="13" Index="27" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Water -->
+			<Item Cat="13" Index="28" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Necklace of Ability -->			
+			<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Earth -->
+			<Item Cat="13" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="20000" /> <!-- Ring of Wind -->
 		</Section>
 		<Section ID="7" Active="1" ItemCat="14" ItemIndex="413" Cost="1" Name="Miracle Coin Box">
 			<Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- sword Divine of Archangel -->
@@ -304,7 +389,6 @@
 			<Item Cat="3" Index="26" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- Divine of Archangel lance -->
 			<Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="10000" /> <!-- Divine Short Sword of Arch. -->
 		</Section>
-	
 	</ItemRewardList>
 	<RewardNotificationItems>							
 		<Item Cat="0" Index="62" Name="Soul Sword" />
