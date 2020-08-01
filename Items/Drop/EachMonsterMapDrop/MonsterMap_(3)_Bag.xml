@@ -14,17 +14,6 @@
 -->
 
 <MonsterMapItemDrop>
-  <DropItem MonsterID="3" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="26" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="27" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="28" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="29" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="30" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="31" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="32" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="33" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-
-
   <DropItem MonsterID="3" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="1" Index="0" MinLevel="0" MaxLevel="0" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="205740" Name="Small Axe" />
   <DropItem MonsterID="3" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="4" Index="0" MinLevel="0" MaxLevel="0" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="205740" Name="Short Bow" />
   <DropItem MonsterID="3" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="0" MinLevel="0" MaxLevel="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="3145" Name="Apple" />

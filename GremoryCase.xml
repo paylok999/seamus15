@@ -36,23 +36,23 @@
 
 <GremoryCase>
 	<RewardExpiryTime>
-		<Use Type="1" Time="3600" Name="Chaos Castle" />
-		<Use Type="2" Time="3600" Name="Blood Castle" />
-		<Use Type="3" Time="3600" Name="Illusion Temple" />
-		<Use Type="4" Time="3600" Name="Doppelganger" />
+		<Use Type="1" Time="43200" Name="Chaos Castle" />
+		<Use Type="2" Time="43200" Name="Blood Castle" />
+		<Use Type="3" Time="43200" Name="Illusion Temple" />
+		<Use Type="4" Time="43200" Name="Doppelganger" />
 		<!-- <Use Type="5" Time="3600" Name="Empty" /> -->
 		<!-- <Use Type="6" Time="3600" Name="Empty" /> -->
 		<!-- <Use Type="7" Time="3600" Name="Empty" /> -->
-		<Use Type="8" Time="3600" Name="Chaos Castle Survival BattleCore" />
-		<Use Type="9" Time="3600" Name="Tormented Square BattleCore" />
-		<Use Type="10" Time="3600" Name="Chaos Castle (Battle) BattleCore" />
-		<Use Type="11" Time="3600" Name="Tormented Square (Battle) BattleCore" />
-		<Use Type="12" Time="3600" Name="EvoMon" />
-		<Use Type="13" Time="3600" Name="Devil Square" />
-		<Use Type="14" Time="3600" Name="Imperial Guardian" />
+		<Use Type="8" Time="43200" Name="Chaos Castle Survival BattleCore" />
+		<Use Type="9" Time="43200" Name="Tormented Square BattleCore" />
+		<Use Type="10" Time="43200" Name="Chaos Castle (Battle) BattleCore" />
+		<Use Type="11" Time="43200" Name="Tormented Square (Battle) BattleCore" />
+		<Use Type="12" Time="43200" Name="EvoMon" />
+		<Use Type="13" Time="43200" Name="Devil Square" />
+		<Use Type="14" Time="43200" Name="Imperial Guardian" />
 		<!-- <Use Type="15" Time="3600" Name="Empty" /> -->
 		<Use Type="16" Time="86400" Name="Inventory Mix" />
-		<Use Type="17" Time="3600" Name="Event Items" />
-		<Use Type="18" Time="3600" Name="Labyrinth" />
+		<Use Type="17" Time="43200" Name="Event Items" />
+		<Use Type="18" Time="43200" Name="Labyrinth" />
 	</RewardExpiryTime>
 </GremoryCase>

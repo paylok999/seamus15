@@ -16,13 +16,7 @@
 <MonsterMapItemDrop>
 	
 	<DropItem MonsterID="19" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="20" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="21" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="22" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="23" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="24" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  <DropItem MonsterID="25" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="11" MinLevel="3" MaxLevel="3" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Heart of Love" />
-  
+
   <DropItem MonsterID="24" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="1" Index="2" MinLevel="0" MaxLevel="0" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="4802" Name="Double Axe" />
   <DropItem MonsterID="24" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="1" Index="3" MinLevel="0" MaxLevel="0" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="4802" Name="Tomahawk" />
   <DropItem MonsterID="24" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="2" Index="0" MinLevel="0" MaxLevel="0" Durability="0" Skill="-1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="4802" Name="Mace" />
